@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kasper/catkin_ws/src/vrep_ros_interface/cmake-build-debug/devel/setup.sh
